@@ -1,6 +1,6 @@
 # mpv-scripts
 
-A collection of scripts modified for better language processing:
+A collection of scripts modified for better language learning experience:
 
 ## mpvacious that exports primary and secondary (both) subtitles to ANKI
 the original script had only one subtitle support which didn't work for me.
