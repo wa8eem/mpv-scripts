@@ -8,5 +8,5 @@ the original script had only one subtitle support which didn't work for me.
 ## switch-sub
 It's quite a simple script that just switches the positions of two subtitltes. The upper subtitles goes down and vice versa. It could come handy when you watch movies having differnt audio languages. I wrote it to get my job done and it's my first script ever written.
 
-##Paused-osd
+## Paused-osd
 This is quite a simple script, it forced the osd to remain visible as an indication that the video is paused. When you unpause, the osc-visibility is set to auto again!
