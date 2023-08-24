@@ -14,3 +14,7 @@ This is quite a simple script, it forced the osd to remain visible as an indicat
 ## Openurl
 
 Open the url of the remote file you are streaming, it extracts the url and opens it in the default browser, very handy if you want to go back where you found this URL
+
+## Restart the MPV player
+
+Very handy when you need to restart the player just because you made changes to the scripts or stuff!
