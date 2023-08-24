@@ -10,3 +10,7 @@ It's quite a simple script that just switches the positions of two subtitltes. T
 
 ## Paused-osd
 This is quite a simple script, it forced the osd to remain visible as an indication that the video is paused. When you unpause, the osc-visibility is set to auto again!
+
+## Openurl
+
+Open the url of the remote file you are streaming, it extracts the url and opens it in the default browser, very handy if you want to go back where you found this URL
